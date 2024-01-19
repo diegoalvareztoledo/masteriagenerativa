@@ -2,7 +2,9 @@
 Tareas del Master IA Generativa
 
 Caso de uso: Organizar las tareas de las personas del día a día.
-Riesgos: 
+
+-Riesgos:
+
 Un modelo de datos LLM (Lenguaje de Modelado de Largo Plazo) que organiza las tareas diarias de las personas puede tener varios riesgos asociados. Aquí hay algunos de ellos:
 
 1. **Privacidad y Seguridad:**
@@ -39,7 +41,7 @@ En particular, GPT-3 (Generative Pre-trained Transformer 3) de OpenAI es un mode
 
 Al utilizar un modelo como GPT-3 para organizar las tareas diarias, podría seguir estos pasos:
 
-Definir la tarea:
+-Definir la tarea:
 
 Especificar claramente la tarea que desea que el modelo realice, como la creación de una lista de tareas diarias, recordatorios o sugerencias de prioridades.
 Interacción con el modelo:
