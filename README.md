@@ -34,14 +34,15 @@ Un modelo de datos LLM (Lenguaje de Modelado de Largo Plazo) que organiza las ta
 
 Es fundamental abordar estos riesgos a través de prácticas de desarrollo ético, transparencia en el diseño del modelo, auditorías de sesgo, y una supervisión continua para garantizar un uso responsable y seguro de la tecnología.
 
-Proceso de implementación:
+-Proceso de implementación:
+
 Para organizar las tareas diarias de las personas, podría considerar el uso de modelos de lenguaje generativo como GPT-3, GPT-4 (si está disponible en el momento de su implementación), o modelos similares. Estos modelos son capaces de entender y generar texto de manera contextual, lo que les permite realizar tareas de procesamiento del lenguaje natural de manera avanzada.
 
 En particular, GPT-3 (Generative Pre-trained Transformer 3) de OpenAI es un modelo de lenguaje generativo que ha demostrado ser eficaz en una amplia variedad de aplicaciones de procesamiento del lenguaje natural. Puede generar texto coherente y relevante basándose en las instrucciones proporcionadas.
 
 Al utilizar un modelo como GPT-3 para organizar las tareas diarias, podría seguir estos pasos:
 
--Definir la tarea:
+Definir la tarea:
 
 Especificar claramente la tarea que desea que el modelo realice, como la creación de una lista de tareas diarias, recordatorios o sugerencias de prioridades.
 Interacción con el modelo:
